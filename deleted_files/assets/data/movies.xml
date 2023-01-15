@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<collection>
+
+<movie>
+	<title>Inglorious Basterds</title>
+	<director>Quentin Tarantino</director>
+	<actors>Brad Pitt,Diane Kruger,Eli Roth</actors>
+	<genre>adventure,drama,war</genre>
+	<year>2009</year>
+	<images>inglourious</images>
+	<description>In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.</description>
+</movie>
+
+<movie>
+	<title>Braveheart</title>
+	<director>Mel Gibson</director>
+	<actors>Mel Gibson,Sophie Marceau,Patrick McGoohan</actors>
+	<genre>biography,drama,history</gerne>
+	<year>1995</year>
+	<images>brave</images>
+	<description>Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.</description>
+</movie>
+
+<movie>
+	<title>Toy Story</title>
+	<director>John Lasseter</director>
+	<actors>Tom Hanks,Tim Allen,Don Rickles</actors>
+	<genre>animation,adventure,comedy</gerne>
+	<year>1995</year>
+	<images>toy</images>
+	<description>A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.</description>
+</movie>
+
+<movie>
+	<title>Avengers: Endgame</title>
+	<director>Anthony Russo</director>
+	<actors>Robert Downey Jr.,Chris Evans,Mark Ruffalo</actors>
+	<genre>action,adventure,drama</gerne>
+	<year>2019</year>
+	<images>avengers</images>
+	<description>After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.</description>
+</movie>
+
+<movie>
+	<title>Requiem for a Dream</title>
+	<director>Darren Aronofsky</director>
+	<actors>Ellen Burstyn,Jared Leto,Jennifer Connelly</actors>
+	<genre>drama</gerne>
+	<year>2000</year>
+	<images>requiem</images>
+	<description>The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.</description>
+</movie>
+
+<movie>
+	<title>The Hunt</title>
+	<director>Thomas Vinterberg</director>
+	<actors>Mads Mikkelsen,Thomas Bo Larsen, Annika Wedderkopp</actors>
+	<genre>drama</gerne>
+	<year>2012</year>
+	<images>hunt</images>
+	<description>A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.</description>
+</movie>
+
+<movie>
+	<title>Amelie</title>
+	<director>Jean-Pierre Jeunet</director>
+	<actors>Audrey Tautou,Mathieu Kassovitz, Kevin Dias</actors>
+	<genre>comedy,romance</gerne>
+	<year>2001</year>
+	<images>amelie</images>
+	<description>Amelie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.</description>
+</movie>
+
+<movie>
+	<title>Up</title>
+	<director>Pete Docter</director>
+	<actors>Edward Asner,Jordan Nagai,John Ratzenberger</actors>
+	<genre>animation,comedy,adventure</gerne>
+	<year>2009</year>
+	<images>up</images>
+	<description>78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.</description>
+</movie>
+
+<movie>
+	<title>Taxi Driver</title>
+	<director>Martin Scorsese</director>
+	<actors>Robert De Niro,Jodie Foster,Cybil Shepherd</actors>
+	<genre>crime,drama</gerne>
+	<year>1976</year>
+	<images>taxi</images>
+	<description>A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.</description>
+</movie>
+
+<movie>
+	<title>Batman Begins</title>
+	<director>Christopher Nolan</director>
+	<actors>Christian Bale,Michael Caine,Ken Watanabe</actors>
+	<genre>action,crime,drama</gerne>
+	<year>2005</year>
+	<images>batman</images>
+	<description>After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.</description>
+</movie>
+
+<movie>
+	<title>Shutter Island</title>
+	<director>Martin Scorsese</director>
+	<actors>Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo</actors>
+	<genre>mystery,thriller</gerne>
+	<year>2010</year>
+	<images>shutter</images>
+	<description>In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.</description>
+</movie>
+
+<movie>
+	<title>Jurassic Park</title>
+	<director>Steven Spielberg</director>
+	<actors>Sam Neil,Laura Dern,Jeff Goldblum</actors>
+	<genre>action,adventure,scifi</gerne>
+	<year>1993</year>
+	<images>park</images>
+	<description>A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.</description>
+</movie>
+
+</collection>
